@@ -135,7 +135,7 @@ SokoFlow is specifically designed for:
 
 \`\`\`bash
 # Clone the repository
-git clone https://github.com/your-username/sokoflow.git
+git clone https://github.com/sirarwa/Soko_Flow/
 cd sokoflow
 
 # Install dependencies
