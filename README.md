@@ -157,7 +157,7 @@ Open [http://localhost:3000](http://localhost:3000) to see the app! 🎉
 ### Step 1: Clone the Repository
 
 \`\`\`bash
-git clone https://github.com/your-username/sokoflow.git
+git clone https://github.com/sirarwa/Soko_Flow
 cd sokoflow
 \`\`\`
 
